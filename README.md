@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=28&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=TEKNIK+INFORMATIKA;_>+TEKNIK+INFORMATIKA+<_" alt="Hacker Typing Teknik Informatika" />
-</p>
-
-<p align="center">
     <img src="https://komarev.com/ghpvc/?username=mfauzanasshabierin&label=Profile%20views&color=0e75b6&style=flat" alt="mfauzanasshabierin" />
     &nbsp;
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mfauzanasshabierin.mfauzanasshabierin" alt="visitor badge" />
