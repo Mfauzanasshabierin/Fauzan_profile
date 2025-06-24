@@ -66,16 +66,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfauzanasshabierin&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Mfauzanasshabierin/Mfauzanasshabierin/output/snake.svg" alt="Snake animation" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mfauzanasshabierin/Mfauzanasshabierin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mfauzanasshabierin/Mfauzanasshabierin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mfauzanasshabierin/Mfauzanasshabierin/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
