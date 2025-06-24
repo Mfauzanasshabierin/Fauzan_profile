@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA0a2t3N2dndjN3NzI3N3B6aTAwd3F0ZWE0eHhwYXd3ZzVjMG5xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="gif" width="800" height="60" style="object-fit:cover; border-radius:8px;">
+</p>
+
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=mfauzanasshabierin&label=Profile%20views&color=0e75b6&style=flat" alt="mfauzanasshabierin" />
     &nbsp;
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mfauzanasshabierin.mfauzanasshabierin" alt="visitor badge" />
