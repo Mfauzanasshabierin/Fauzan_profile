@@ -71,4 +71,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfauzanasshabierin&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Play games with me
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+<!--
+    The above SVG animates your GitHub contribution graph as a snake game.
+    You can generate your own at: https://github.com/Platane/snk
+-->
+
+
