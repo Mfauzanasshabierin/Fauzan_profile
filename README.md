@@ -1,3 +1,5 @@
+![Muhammad Fauzan As Shabierin](asset/banner_github.png)
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mfauzanasshabierin&label=Profile%20views&color=0e75b6&style=flat" alt="mfauzanasshabierin" />
     &nbsp;
