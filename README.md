@@ -1,5 +1,10 @@
 ![Muhammad Fauzan As Shabierin](asset/banner_github.png)
 
+<!-- Animated Typing Effect -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Fauzan!;Informatics+Student+at+ITERA;Software+%26+Web+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mfauzanasshabierin&label=Profile%20views&color=0e75b6&style=flat" alt="mfauzanasshabierin" />
     &nbsp;
